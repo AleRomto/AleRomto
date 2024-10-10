@@ -11,7 +11,7 @@ Soy de Chile y actualmente me dedico a la correción y producción de textos; la
 
 Originalmente tengo una licenciatura en Pedagogía en Español, pero también he incursionado en diferentes áreas, desde la cocina hasta la biotecnología.
  
-En cuanto a programación, empecé el 2023 con un bootcamp Fullstack de JS. Debido a problas externos, la experiencia no fue lo que esperaba, pero sí me gustó lo suficiente como para profundizar por mi cuenta y llegar hasta el diseño UX. En 2024, volví a probar con un Bootcamp Front-End JS y ahora confirmé que, en efecto, quería continuar por este camino y compatibilizarlo con mi amor por la escritura.
+En cuanto a programación, empecé el 2023 con un bootcamp Fullstack de JS. Debido a problemas externos, la experiencia no fue lo que esperaba, pero sí me gustó lo suficiente como para profundizar por mi cuenta y llegar hasta el diseño UX. En 2024, volví a probar con un Bootcamp Front-End JS y ahora confirmé que, en efecto, quería continuar por este camino y compatibilizarlo con mi amor por la escritura.
 
 <h3>En que estoy ahora mismo</h3>
 
